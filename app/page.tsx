@@ -32,7 +32,7 @@ export default function Home() {
       </p>
 
       <p className="text-[17px] leading-[26px] text-[#171717] font-normal mb-6">
-        I’m currently working independently through Divlytics in Sydney, where I build AI automation and web projects, including AI-powered websites, AWS-hosted solutions, and proof-of-concept systems using automation and AI tools.
+        After relocating from Singapore to Australia in 2025, registered as a sole trader (Divlytics) in Sydney, building AI-powered and AWS-hosted websites while developing hands-on expertise in cloud technologies and AI-driven systems.
       </p>
 
       <p className="text-[17px] leading-[26px] text-[#171717] font-normal">
